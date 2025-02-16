@@ -3,7 +3,5 @@ MrDarkRX LGL Layout
 
 
 
-
-
-
-## Layout (./sc.png)
+![UI](./ui.png)
+***
